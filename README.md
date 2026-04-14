@@ -28,3 +28,5 @@ Phylogenetic trees were reconstructed for three different datasets (Complete Gen
 Visualization & Annotation: * Initial visualization via FigTree v1.4.4.
 
 Advanced graphical editing and annotation using the __ggtree package__ (v3.16.3) in R v4.5.0.
+
+[Raw NGS data](URL "https://www.ncbi.nlm.nih.gov/sra/PRJNA1453041")
