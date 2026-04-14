@@ -12,15 +12,18 @@ Genome Polishing: Correction of gaps and small indels using __Pilon v1.24__ (par
 
 Consensus Generation: Final consensus sequences are called using __iVar v1.4.2__ (thresholds: $Q20$, $5\times$ depth). Regions below the depth threshold are masked with "N".
 
-Phylogenetic Readiness: Only genomes with $> 80\%$ breadth of coverage are recommended for downstream analysis (calculated in the final metrics report).
+Phylogenetic Readiness: Only genomes with $>80\%$ coverage breadth are recommended for downstream analysis (as calculated in the final metrics report).
 
 Beyond the assembly pipeline, this study utilized a phylogenetic workflow for both whole-genome and VP1 gene sequences:
 
-Multiple Sequence Alignment (MSA): Performed using __MAFFT v7.520__ (Katoh & Standley, 2013).
+Phylogenetic trees were reconstructed for three different datasets (Complete Genome, VP1 Gene, and Complete Genome alongside JCPyV and BKPyV). 
 
-Tree Inference: Maximum-likelihood (ML) trees were constructed using __IQ-TREE2 v2.1.3__ (Minh et al., 2020).
-
-Reliability: Branch support was evaluated with 1,000 bootstrap replicates.
+**Methodology:**
+- **Alignment:** Sequences were aligned using `MAFFT v7.520`.
+- **Tree Construction:** Maximum-Likelihood (ML) trees were inferred using `IQ-TREE2`.
+- **Command:**
+  ```bash
+  iqtree2 -s input_alignment.fasta -fast -m MFP -alrt 1000 -nt AUTO
 
 Visualization & Annotation: * Initial visualization via FigTree v1.4.4.
 
