@@ -1,0 +1,32 @@
+Name	Acession	Country	State	City	date	Host	strain	Study
+MA095	NC_018102.1	Malawi	2008-09-19	NA	NA	Homo sapiens	MA095	NA
+WD976	JQ898292.1	USA	2009-08-11	NA	NA	Homo sapiens	WD976	NA
+10WW	JX262162.1	USA	2012-06-07	NA	NA	Homo sapiens	10WW	NA
+UC-MXPyV-1	JX259273.1	Mexico	NA	NA	NA	Homo sapiens	UC-MXPyV-1	NA
+QLDMW02	KC549586.1	Australia	NA	NA	2008-04-03	Homo sapiens	QLDMW02	NA
+QLDMW03	KC549587.1	Australia	NA	NA	2012-07-31	Homo sapiens	QLDMW03	NA
+QLDMW04	KC549588.1	Australia	NA	NA	2012-08-03	Homo sapiens	QLDMW04	NA
+QLDMW05	KC549589.1	Australia	NA	NA	2007-09-10	Homo sapiens	QLDMW05	NA
+QLDMW09	KC549590.1	Australia	NA	NA	2009-01-13	Homo sapiens	QLDMW09	NA
+QLDMW10	KC549591.1	Australia	NA	NA	2010-31-31	Homo sapiens	QLDMW10	NA
+QLDMW11	KC549592.1	Australia	NA	NA	2008-04-04	Homo sapiens	QLDMW11	NA
+QLDMW12	KC549593.1	Australia	NA	NA	2008-10-28	Homo sapiens	QLDMW12	NA
+QLDMW13	KC549594.1	Australia	NA	NA	2008-10-30	Homo sapiens	QLDMW13	NA
+HB017C	KC571700.1	China	NA	NA	2011-01-01	Homo sapiens	HB017C	NA
+HB039C	KC571701.1	China	NA	NA	2011-01-01	Homo sapiens	HB039C	NA
+HB040C	KC571702.1	China	NA	NA	2011-01-01	Homo sapiens	HB040C	NA
+HB087C	KC571703.1	China	NA	NA	2011-01-01	Homo sapiens	HB087C	NA
+HN037	KC571704.1	China	NA	NA	2011-01-01	Homo sapiens	HN037	NA
+HN104	KC571705.1	China	NA	NA	2011-01-01	Homo sapiens	HN104	NA
+TEDDY_01	KC690147.1	USA	NA	NA	2007-06-07	Homo sapiens	TEDDY_01	NA
+Y96	KR338953.1	China	NA	NA	2013-03-01	Homo sapiens	Y96	NA
+NIID24	LC822567.1	Japan	NA	NA	2024-01-01	Homo sapiens	NIID24	NA
+Pool9	OP910238.1	Brazil	NA	NA	2022-01-01	Homo sapiens	Pool9	NA
+Pool1	OP910239.1	Brazil	NA	NA	2022-01-01	Homo sapiens	Pool1	NA
+MW46	Consensus_MW46_ivar_threshold_0_quality_20	Brazil	São_Paulo	Cajuru	2024-07-10	Homo sapiens	MWPyV46	MWPyV46
+MW57	Consensus_MW57_ivar_threshold_0_quality_20	Brazil	São_Paulo	São_Simão	2024-08-07	Homo sapiens	MWPyV57	MWPyV57
+MW103	Consensus_MW103_ivar_threshold_0_quality_20	Brazil	São_Paulo	Borborema	2024-03-26	Homo sapiens	MWPyV103	MWPyV103
+MW105	Consensus_MW105_ivar_threshold_0_quality_20	Brazil	São_Paulo	Ituverava	2024-04-30	Homo sapiens	MWPyV105	MWPyV105
+MW108	Consensus_MW108_ivar_threshold_0_quality_20	Brazil	São_Paulo	Ribeirão_Preto	2024-06-18	Homo sapiens	MWPyV108	MWPyV108
+MW232	Consensus_MW232_ivar_threshold_0_quality_20	Brazil	São_Paulo	Nuporanga	2024-09-10	Homo sapiens	MWPyV232	MWPyV232
+
